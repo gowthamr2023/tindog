@@ -1,1 +1,2 @@
-TinDog ANR Labs Website
+#*TinDog*
+is a sample website from @anr-labs
